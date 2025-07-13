@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaheshMutkiri&label=Profile%20views&color=0e75b6&style=flat" alt="MaheshMutkiri" /> </p>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img align="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 🔭 I’m currently working on My skillsets<br><br>🌱 I’m currently ** Open for a Job [Fresher] **<br><br>💬 Ask me about Coding & Development<br><br>📫 How to reach me sarveshmutkiri@gmail.com<br><br>⚡ Other Interest sports<br><br>
 
 
